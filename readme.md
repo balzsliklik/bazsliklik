@@ -16,6 +16,15 @@ sigma✅
 HelloWorld("print")
 ```
 
+```py
+
+def Helloworld(print):
+    if print == "print":
+        print(print)
+    else:
+        print(print)
+```
+
 [redgifs](https//www.redgifs.com)
 
 ![tufa](https://tse4.mm.bing.net/th/id/OIP.pTcuA5xmc5BBWP9CPGK8OAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
