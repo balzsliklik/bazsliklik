@@ -4,7 +4,9 @@
 
 ### szia döme
 *very dőlt*
+
 sigma✅
+
 ~~buzi~~
 
 ### így kell python 
