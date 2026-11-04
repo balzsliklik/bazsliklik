@@ -8,6 +8,7 @@
 sigma✅
 
 ~~buzi~~
+#### Döme kabátja 3456789% polyester
 
 ### így kell python 
 
