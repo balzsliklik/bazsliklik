@@ -13,8 +13,7 @@ sigma✅
 
 ```py
 
-while true:
-    print("helo")
+HelloWorld("print")
 ```
 
 [redgifs](https//www.redgifs.com)
